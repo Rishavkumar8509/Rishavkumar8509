@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavkumar8509" alt="rishavkumar8509" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
 - 🔭 I’m currently Studying **Jaypee University,Anoopshahr**
 
